@@ -10,14 +10,15 @@ In this Project We use Firebase Authentication, Database, cloud Storage and stri
 
 Do You Want to Visit Website Live You can test on firebase and netlify.
 
-### Firebase
-
-Firbase Link : [https://liberty-71d2f.web.app/](https://liberty-71d2f.web.app/)
-
 
 ### Netlify
 
 Netlify Link : [https://liberty-book-store.netlify.app/](https://liberty-book-store.netlify.app/)
+
+
+### Firebase
+
+Firbase Link : [https://liberty-71d2f.web.app/](https://liberty-71d2f.web.app/)
 
 
 
