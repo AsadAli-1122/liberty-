@@ -1,0 +1,12 @@
+{
+  "rules": {
+    ".read": "true",
+    ".write": "true",
+    "UploadBooks": {
+      ".indexOn": ["category", "author", "type/value", "booktitle", "isbn"]
+    },
+    "Favourites":{
+      ".indexOn": [ "userId_bookId" ,"bookId", "userId"]
+    }
+  }
+}

@@ -1,0 +1,6 @@
+#country:hover, #country:focus{
+    border-color: transparent !important;
+  box-shadow: none !important;
+  outline: none !important;
+    
+}
